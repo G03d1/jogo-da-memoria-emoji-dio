@@ -12,7 +12,7 @@ O obejtivo do jogo é encontrar todos os pares de emojis.
 
 ## 📸 Screenshot
 
-<img src="jogo-da-memoria-emoji-dio/src/screenshot.jpg">
+<img src="src/screenshot.jpg">
 
 ## 📌 Créditos
 
